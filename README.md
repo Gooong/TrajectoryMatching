@@ -18,7 +18,7 @@ Below is the overall process of the framework:
 
 Please consider citing our paper if this helps in your work:
 
-Gong, X., Huang, Z., Wang, Y., Wu, L., & Liu, Y. (2019). High-performance spatiotemporal trajectory matching across heterogeneous data sources. Future Generation Computer Systems.
+Xuri Gong, Zhou Huang, Yaoli Wang, Lun Wu, & Yu Liu (2020). High-performance spatiotemporal trajectory matching across heterogeneous data sourcesFuture Generation Computer Systems, 105, 148 - 161.
 
 @article{GONG2020148,
 title = "High-performance spatiotemporal trajectory matching across heterogeneous data sources",
